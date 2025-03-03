@@ -1,10 +1,9 @@
 title: John Doe # your name (or website title) here
 logo: "/images/Headshot.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  A data scientist with a strong background in sports analytics, computer science, and statistics. Experience includes analyzing player performance, developing predictive models, and creating interactive visualizations to support coaches and athletes. Worked with baseball teams to provide real-time data insights, optimize training strategies, and enhance decision-making through statistical analysis and machine learning.
+  A data scientist specializing in sports analytics, computer science, and statistics. Experience includes player analysis, predictive modeling, and data visualization. Worked with baseball teams to deliver real-time insights and optimize training. Applied machine learning and statistical methods to improve decision-making.
   <br><br>
-  Expertise includes data visualization, statistical modeling, and database management, all applied to sports performance analysis. Authored data-driven articles on player development, built predictive models using R and Python, and developed interactive dashboards with Tableau and Power BI. Leveraged SQL, R Shiny, and AWS to deliver actionable insights that drive performance improvements in baseball analytics.
-  <br><br>
+  Expertise spans data visualization, modeling, and database management. Authored articles on player development and built predictive models in R and Python. Created interactive dashboards with Tableau and Power BI. Leveraged SQL, R Shiny, and AWS to enhance baseball performance analysis.
   <a href="https://www.linkedin.com/in/kendallruth99/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
