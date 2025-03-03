@@ -1,9 +1,9 @@
 title: Kendall Ruth # your name (or website title) here
 logo: "/images/Headshot.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  A data scientist specializing in sports analytics, computer science, and statistics. Experience includes player analysis, predictive modeling, and data visualization. Worked with baseball teams to deliver real-time insights and optimize training. Applied machine learning and statistical methods to improve decision-making.
+  Specializes in sports analytics, particularly in baseball, with experience in player performance analysis, predictive modeling, and data visualization. Worked with teams to provide real-time insights that optimize training and decision-making through machine learning and statistical methods.
   <br><br>
-  Expertise spans data visualization, modeling, and database management. Authored articles on player development and built predictive models in R and Python. Created interactive dashboards with Tableau and Power BI. Leveraged SQL, R Shiny, and AWS to enhance baseball performance analysis.
+  Skilled in Tableau, Power BI, SQL, R, Python, and AWS to create interactive dashboards and predictive models that enhance performance analysis. Authored articles on player development and used R Shiny for real-time data applications.
   <a href="https://www.linkedin.com/in/kendallruth99/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
