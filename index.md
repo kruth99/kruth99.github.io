@@ -7,10 +7,13 @@
 #### Swing That Way: Analyzing a Batter's Push/Pull Tendency
 [Presentation](/pdf/SwingThatWay.pptx.pdf)  
 [Code](https://github.com/kruth99/smt-data-challenge.git)
-<img src="images/BatterSprayChart.png?raw=true"/>
+<img src="images/ScoutingReport.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+#### Rockland Peak Performance Blog Articles
+[What is the Most Effective 4-Seam Tilt Axis in MLB?](https://rocklandpeakperformance.com/mlb-slugging-averages-vs-vertical-horizontal-breaks-and-tilt-axes/)  
+[What are the Most Effective Tilt Axes for Various Pitch Types?](https://rocklandpeakperformance.com/what-are-the-most-effective-tilt-axes-for-various-pitch-types/)  
+[What is a Seam-Shifted Wake Pitch (in simple terms)?](https://rocklandpeakperformance.com/what-is-a-seam-shifted-wake-pitch/)  
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
