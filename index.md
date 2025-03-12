@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Baseball Projects
 
 [Swing That Way](/pdf/SwingThatWay.pptx.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
