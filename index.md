@@ -5,7 +5,7 @@
 ### Baseball Projects
 
 [Swing That Way](/pdf/SwingThatWay.pptx.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BatterSprayChart.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
