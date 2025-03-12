@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Swing That Way](/SwingThatWay.pptx.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
