@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Swing That Way](/SwingThatWay.pptx.pdf)
+[Swing That Way](/pdf/SwingThatWay.pptx.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
