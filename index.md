@@ -4,7 +4,7 @@
 
 ### Baseball Projects
 
-# Swing That Way: Analyzing a Batter's Push/Pull Tendency
+#### Swing That Way: Analyzing a Batter's Push/Pull Tendency
 [Presentation](/pdf/SwingThatWay.pptx.pdf)  
 [Code](https://github.com/kruth99/smt-data-challenge.git)
 <img src="images/BatterSprayChart.png?raw=true"/>
