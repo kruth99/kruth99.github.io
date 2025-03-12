@@ -14,7 +14,7 @@
 [What is the Most Effective 4-Seam Tilt Axis in MLB?](https://rocklandpeakperformance.com/mlb-slugging-averages-vs-vertical-horizontal-breaks-and-tilt-axes/)  
 [What are the Most Effective Tilt Axes for Various Pitch Types?](https://rocklandpeakperformance.com/what-are-the-most-effective-tilt-axes-for-various-pitch-types/)  
 [What is a Seam-Shifted Wake Pitch (in simple terms)?](https://rocklandpeakperformance.com/what-is-a-seam-shifted-wake-pitch/)  
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/RPP.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
