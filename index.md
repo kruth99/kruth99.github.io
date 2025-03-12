@@ -6,7 +6,7 @@
 
 #### Swing That Way: Analyzing a Batter's Push/Pull Tendency
 [Presentation](/pdf/SwingThatWay.pptx.pdf)  
-[Code](https://github.com/kruth99/smt-data-challenge.git)
+[Code](https://github.com/dfenny/smt-data-challenge.git)
 <img src="images/ScoutingReport.png?raw=true"/>
 
 ---
