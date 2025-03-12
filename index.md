@@ -4,7 +4,7 @@
 
 ### Baseball Projects
 
-[Swing That Way Presentation](/pdf/SwingThatWay.pptx.pdf)
+[Swing That Way Presentation](/pdf/SwingThatWay.pptx.pdf)  
 [Swing That Way Code](https://github.com/kruth99/smt-data-challenge.git)
 <img src="images/BatterSprayChart.png?raw=true"/>
 
