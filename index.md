@@ -19,7 +19,7 @@
 ---
 #### Minor League Baseball Call Up Model
 [Effect on Minor League promotion](https://kruth99.shinyapps.io/MILBCallUp/)
-<img src="images/MILBPromotion?raw=true"/>
+<img src="images/MILBPromotion.png?raw=true"/>
 
 ---
 
